@@ -1,4 +1,4 @@
-package com.example.flightapp;
+package com.example.flightapp.model;
 
 public class Baggage {
     private int id;
@@ -38,7 +38,4 @@ public class Baggage {
         this.pieces = pieces;
     }
 
-    // Getters and setters
-
-    // toString method
 }

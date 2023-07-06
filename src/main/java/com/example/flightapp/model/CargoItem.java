@@ -1,4 +1,4 @@
-package com.example.flightapp;
+package com.example.flightapp.model;
 
 public class CargoItem {
     private int id;

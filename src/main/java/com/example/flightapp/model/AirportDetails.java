@@ -1,4 +1,4 @@
-package com.example.flightapp;
+package com.example.flightapp.model;
 
 public class AirportDetails {
     private int departingFlights;
@@ -44,9 +44,5 @@ public class AirportDetails {
     public void setTotalDepartingBaggage(int totalDepartingBaggage) {
         this.totalDepartingBaggage = totalDepartingBaggage;
     }
-
-    // Constructor, getter, and setter methods
-
-    // Add any additional methods or constructors if needed
 }
 

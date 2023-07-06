@@ -1,4 +1,4 @@
-package com.example.flightapp;
+package com.example.flightapp.model;
 
 public class FlightDetails {
     private int cargoWeight;
@@ -34,7 +34,5 @@ public class FlightDetails {
     public void setTotalWeight(int totalWeight) {
         this.totalWeight = totalWeight;
     }
-
-    // Constructor, getter, and setter methods
 }
 

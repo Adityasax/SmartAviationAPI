@@ -1,4 +1,4 @@
-package com.example.flightapp;
+package com.example.flightapp.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 
@@ -63,5 +63,4 @@ public class Flight {
         this.arrivalAirportIATACode = arrivalAirportIATACode;
     }
 
-    // toString method
 }

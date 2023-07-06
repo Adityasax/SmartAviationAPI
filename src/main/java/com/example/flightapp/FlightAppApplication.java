@@ -19,10 +19,5 @@ public class FlightAppApplication {
     public static void main(String[] args) {
 
         SpringApplication.run(FlightAppApplication.class, args);
-        /*String strDateTime = "2019-09-19T08:32:08-02:00";
-        DateTimeFormatter dtf = DateTimeFormatter.ofPattern("uuuu-MM-dd'T'HH:m:ssXXX");
-        OffsetDateTime odt = OffsetDateTime.parse(strDateTime, dtf);
-        System.out.println(odt);*/
-
     }
 }

@@ -1,4 +1,4 @@
-import com.example.flightapp.Flight;
+import com.example.flightapp.model.Flight;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 

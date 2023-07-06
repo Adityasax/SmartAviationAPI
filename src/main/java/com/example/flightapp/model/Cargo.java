@@ -1,4 +1,4 @@
-package com.example.flightapp;
+package com.example.flightapp.model;
 
 import java.util.List;
 
@@ -35,5 +35,4 @@ public class Cargo {
 
     // Getters and setters
 
-    // toString method
 }
